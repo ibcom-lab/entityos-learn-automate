@@ -1,4 +1,4 @@
-# entityOS Automate
+# entityOS Learn Automate
 
 Automate tasks on entityOS.
 
