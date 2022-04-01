@@ -1,0 +1,20 @@
+{
+	"entityos":
+	{
+		"hostname": "api.entityos.cloud", 
+		"logon": "example-learn@entityos.cloud", 
+		"password": "xxxx", 
+		"email": "team@entityos.cloud",
+		"testing": 
+		{
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"automate":
+	{
+		"namespace": "0000-1.0.0"
+	}
+}	
